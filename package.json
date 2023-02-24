@@ -2,7 +2,7 @@
   "name": "mern-deploy",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "commonjs": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
